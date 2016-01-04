@@ -1,0 +1,13 @@
+{
+  "name": "habitrpg-shared",
+  "homepage": "https://github.com/HabitRPG/habitrpg-shared",
+  "_release": "7dbcaa7b26",
+  "_resolution": {
+    "type": "branch",
+    "branch": "develop",
+    "commit": "7dbcaa7b26e4cdc8d9af6bbe78bfd2eea34853ad"
+  },
+  "_source": "git://github.com/HabitRPG/habitrpg-shared.git",
+  "_target": "develop",
+  "_originalSource": "git://github.com/HabitRPG/habitrpg-shared.git"
+}
